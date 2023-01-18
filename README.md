@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 📫 How to reach me: hamzehd93@gmail.com | <a target="_blank" href="https://linkedin.com/in/hamzah-darwish">LinkedIn</a>
+- 🔭 I’m currently working on <a href="https://equevu.com" target="_blank">Equevu<a/>!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzehd)](https://github.com/anuraghazra/github-readme-stats)
